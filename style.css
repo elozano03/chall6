@@ -1,3 +1,11 @@
+.row{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 0;
+}
 
 /* DEBUT HEADER */
 
@@ -24,14 +32,12 @@ main, .sect1_art, .img_header, .sect3_art{
     background-image: url(images/fond-article.png);
 }
 
+/* FIN MAIN */
+/* DEBUT FOOTER */
 .bg-footer{
     background-image: url(images/footer.png);
 }
-
-.row{
-    margin: 0;
-    padding: 0;
-}
+/* FIN FOOTER */
 
 
 @media screen and ( min-width: 1024px){
@@ -53,4 +59,6 @@ main, .sect1_art, .img_header, .sect3_art{
     header{
         padding-bottom: 1rem;
     }
+
+
 }
