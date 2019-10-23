@@ -19,6 +19,7 @@ h1{
 
 nav{
     font-family: 'Abel';
+    background-image: linear-gradient(to top, rgb(0, 162, 255), rgb(0, 174, 255)) ;
 }
 
 /* FIN HEADER */
@@ -30,6 +31,11 @@ main, .sect1_art, .img_header, .sect3_art{
 
 .sect2_art, footer{
     background-image: url(images/fond-article.png);
+}
+
+.btn-color{
+    background-image: linear-gradient(to top, red, orange);
+    color: white;
 }
 
 /* FIN MAIN */
