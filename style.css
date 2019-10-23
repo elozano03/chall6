@@ -14,8 +14,11 @@ main, .sect1_art, .img_header, .sect3_art{
     background-image: url(images/fond.png);
 }
 
-.sect2_art{
+.sect2_art, footer{
     background-image: url(images/fond-article.png);
 }
 
+.bg-footer{
+    background-image: url(images/footer.png);
+}
 
