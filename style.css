@@ -1,0 +1,21 @@
+
+
+/* DEBUT HEADER */
+
+header{
+    background-image: url(images/header.png);
+}
+
+
+/* FIN HEADER */
+/* DEBUT MAIN */
+
+main, .sect1_art, .img_header, .sect3_art{
+    background-image: url(images/fond.png);
+}
+
+.sect2_art{
+    background-image: url(images/fond-article.png);
+}
+
+
